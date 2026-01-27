@@ -22,16 +22,16 @@ up_name="Ram"
 dict.update({up_name:9})
 print(dict)
 
-# search_name="Rahul"
-# length=0
-# index=0
-# for i in dict:
-#     length+=1
-# for name in dict:
-#     if name!=search_name:
-#         index+=1
-#     else:
-#         break
+search_name="Rahul"
+length=0
+index=0
+for i in dict:
+    length+=1
+for name in dict:
+    if name!=search_name:
+        index+=1
+    else:
+        break
 # if index<length-1:
 #     print(f"The student name is present at the index {index}.")
 # else:
