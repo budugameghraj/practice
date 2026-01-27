@@ -7,7 +7,7 @@ class Products:
 
     @classmethod
     def get_count(cls):
-        return(f"The number of products are {cls.count}")
+        return(f"The number of products are {cls.count}"))
 
     @staticmethod
     def get_discount(price,discount):
