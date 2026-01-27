@@ -13,14 +13,14 @@ while Game == True:
 
 if action!="A" or "B" or "C" or "D":
     Game=False
-# new_name="Veer"
-# marks=10
-# dict.update({new_name:marks})
-# print(dict)
+new_name="Veer"
+marks=10
+dict.update({new_name:marks})
+print(dict)
 
-# up_name="Ram"
-# dict.update({up_name:9})
-# print(dict)
+up_name="Ram"
+dict.update({up_name:9})
+print(dict)
 
 # search_name="Rahul"
 # length=0
