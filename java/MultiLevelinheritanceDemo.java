@@ -19,6 +19,5 @@ public class MultiLevelinheritanceDemo {
         a.house();
         a.Business();
         a.education();
-
     }
 }
