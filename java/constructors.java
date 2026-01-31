@@ -7,6 +7,7 @@ public class constructors {
         }
         class B extends A{
             B(){
+                super();
                 System.out.println("B constructor");
             }
         }
