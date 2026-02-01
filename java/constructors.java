@@ -11,6 +11,6 @@ public class constructors {
                 System.out.println("B constructor");
             }
         }
-        B obj= new B();
+        B b= new B();
     }
 }
